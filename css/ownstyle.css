@@ -9,9 +9,11 @@
 img.aboutpic {
   width: 100%;
   border-radius: 50%;
+  max-width: 240px;
 }
 
 img.interestPic {
   width: 100%;
+  max-width: 240px;
 }
 /*# sourceMappingURL=ownstyle.css.map */
